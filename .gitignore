@@ -1,0 +1,11 @@
+# Backend
+earthcode-finance-main/backend/node_modules
+earthcode-finance-main/backend/.env
+
+# Frontend
+earthcode-finance-main/node_modules
+earthcode-finance-main/dist
+earthcode-finance-main/.env
+
+# Logs
+*.log
